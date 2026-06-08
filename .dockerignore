@@ -1,0 +1,8 @@
+.git
+.gitignore
+README.md
+cloudbuild.yaml
+.env
+node_modules
+dist
+build
